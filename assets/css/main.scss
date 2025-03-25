@@ -41,3 +41,12 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+// === custom layout overrides ===
+.page__inner {
+  max-width: 1200px !important;
+  width: 100%;
+}
+
+.page__content {
+  max-width: 1000px !important;
+}
