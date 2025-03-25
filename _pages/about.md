@@ -11,7 +11,7 @@ I am a Ph.D. student at Hunan University (HNU), China, under the supervision of 
 
 From September 2023 to September 2024, I am a Ph.D. visiting student at Nanyang Technological University (NTU), Singapore, under the guidance of [Prof. Jagath Rajapakse](https://personal.ntu.edu.sg/asjagath/){:target="_blank"}.
 
-I received both my B.Eng. and M.Eng. degrees in Computer Science and Technology from Hunan University, where I have been continuously exploring medical image analysis and fetal ultrasound research since 2019.
+I received both my B.Eng. degree in Computer Science and Technology from Hunan University, where I have been continuously exploring medical image analysis and fetal ultrasound research since 2019.
 
 Research
 ======
