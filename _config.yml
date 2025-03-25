@@ -23,11 +23,11 @@ repository               : "Luyuhuan/Luyuhuan.github.io"
 author:
   # Biographic information
   avatar           : "lyh.jpg"
-  name             : "路玉欢"
+  name             : "Lu Yuhuan"
   pronouns         : # example: "she/her"  
-  bio              : "专注于超声心脏图像处理"
-  location         : "长沙，中国"
-  employer         : "湖南大学"
+  bio              : "Focused on ultrasound cardiac image processing."
+  location         : "Changsha, China"
+  employer         : "Hunan University"
   uri              : # URL
   email            : "hnuluyuhuan@hnu.edu.cn" 
 
