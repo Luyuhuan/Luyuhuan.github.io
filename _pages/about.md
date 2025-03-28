@@ -115,6 +115,28 @@ I'm interested in medical image analysis, ultrasound image processing, fetal car
   </tr>
 </table>
 
+<table>
+  <!-- <table style="font-size: 1.025em;"> -->
+  <tr>
+    <!-- <td style="width: 150px; vertical-align: top;">
+      <img src="/images/cardiaccycle.png" width="150px">
+    </td> -->
+    <td>
+      <p>
+        <strong>
+        <a href="https://doi.org/10.1109/JBHI.2022.3182722" target="_blank">
+        MobileUNet-FPN: A Semantic Segmentation Model for Fetal Ultrasound Four-Chamber Segmentation in Edge Computing Environments
+        </a>
+        </strong><br>
+        Pu, Bin and <strong>Lu, Yuhuan</strong> and Chen, Jianguo and Li, Shengli and Zhu, Ningbo and Wei, Wei and Li, Kenli<br>
+        <em> IEEE Journal of Biomedical and Health Informatics (JBHI)</em>, 2022.<br>
+        <a href="https://doi.org/10.1109/JBHI.2022.3182722" target="_blank">paper</a><br>
+        MobileUNet-FPN is a lightweight AI model that integrates MobileNet, UNet, and an explicit FPN to segment 13 key anatomical structures in fetal apical four-chamber ultrasound images with high accuracy.
+      </p>
+    </td>
+  </tr>
+</table>
+
 For more info
 ------
 For more information, feel free to reach out via email: <span style="color:#007bff">hnuluyuhuan@hnu.edu.cn</span>.
