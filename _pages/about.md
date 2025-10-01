@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at Hunan University (HNU), China, under the supervision of [Prof. Kenli Li](https://scholar.google.com/citations?user=mSpHqSUAAAAJ){:target="_blank"} and [Prof. Ningbo Zhu](https://csee.hnu.edu.cn/people/zhuningbo){:target="_blank"}.
+I am a Research Fellow at Harvard Medical School and Boston Children’s Hospital, working with [Dr. Davood Karimi](https://connects.catalyst.harvard.edu/Profiles/display/Person/178555){:target="_blank"}.
 
-From September 2023 to September 2024, I am a Ph.D. visiting student at Nanyang Technological University (NTU), Singapore, under the guidance of [Prof. Jagath Rajapakse](https://personal.ntu.edu.sg/asjagath/){:target="_blank"}.
+From September 2020 to September 2025, I am pursuing my Ph.D. at Hunan University under [Prof. Kenli Li](https://scholar.google.com/citations?user=mSpHqSUAAAAJ){:target="_blank"}  and [Prof. Ningbo Zhu](https://csee.hnu.edu.cn/people/zhuningbo){:target="_blank"}.
 
-I received both my B.Eng. degree in Computer Science and Technology from Hunan University, where I have been continuously exploring medical image analysis and fetal ultrasound research since 2019.
+from September 2023 to September 2024, I was a visiting Ph.D. student at Nanyang Technological University with [Prof. Jagath Rajapakse](https://personal.ntu.edu.sg/asjagath/){:target="_blank"}.
+
+I received my B.Eng. in Computer Science and Technology from Hunan University, and since 2019 my research has focused on medical image analysis and fetal ultrasound.
 
 Research
 ======
